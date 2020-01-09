@@ -1,0 +1,22 @@
+body {
+	background-image: url('background.jpg');
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+	text-align:center;
+}
+
+}
+
+.photo {
+  flex: 33.33%;
+  padding: 50px;
+}
+
+.photos {
+	display: flex;
+}
